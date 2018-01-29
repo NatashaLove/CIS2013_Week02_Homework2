@@ -1,3 +1,5 @@
+//The purpose of this program is to use loop on the example of the song "99 bottles of beer".
+
 #include <iostream>
 using namespace std;
 
